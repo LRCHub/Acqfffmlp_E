@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "極夜",
+  "base_artist": "長尾景",
+  "createdAt": "2025-12-15T10:21:06.192944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "極夜",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_極夜_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "極夜",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/02_極夜_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "極夜",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/03_極夜_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "極夜",
+      "artist": "cinema staff",
+      "has_synced": true,
+      "path": "select/04_極夜_cinema_staff.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "極夜",
+      "artist": "長尾景",
+      "has_synced": true,
+      "path": "select/05_極夜_長尾景.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "極夜",
+      "artist": "長尾景",
+      "has_synced": false,
+      "path": "select/pl_01_極夜_長尾景.txt"
+    }
+  ]
+}
